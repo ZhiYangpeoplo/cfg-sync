@@ -1,0 +1,2 @@
+# cfg-sync
+cache assets
